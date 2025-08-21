@@ -1,5 +1,5 @@
 #  TODO ATLETA
-<img src="imagenes/nombre-de-la-imagen.jpg" alt="Descripción de la imagen" width="300" />
+<img src="imagenes/todo atleta.png" alt="Descripción de la imagen" width="300" />
 Bienvenido a la mejor pagina de compra de productos deportivos en bogota,colombia
 
 ## Descripción
