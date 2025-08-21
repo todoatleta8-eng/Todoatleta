@@ -17,7 +17,7 @@ FACEBOOK
 Todoatleta8
 TIK TOK
 Todoatleta8
-
+<img src="imagenes/nombre-de-la-imagen.jpg" alt="Descripción de la imagen" width="300" />
 ---
 
 ¡Gracias por visitar mi proyecto!
