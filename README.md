@@ -1,6 +1,6 @@
-# Mi Página Web
+#  TODO ATLETA
 
-Bienvenido a mi página web creada con HTML y CSS. Este proyecto es una página sencilla con un diseño de colores principal negro, secundario dorado y texto en blanco.
+Bienvenido a la mejor pagina de compra de productos deportivos en bogota,colombia
 
 ## Descripción
 
